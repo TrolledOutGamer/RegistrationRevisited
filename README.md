@@ -5,7 +5,7 @@ This project aims to rebuild the UTD registration system by using our algorithms
 The input for this project is a text file which should be formatted as the below example. Since we do not have access to UTD servers, we cannot scrape the website for your information unless this was incorporated by a galaxy developer. For now, the input must be like this, however in the future galaxy could automatically get this info.
 
 # Example Input
-Omar Ahmad
+Omar Ahmad\n
 omar
 Computer Science
 34
